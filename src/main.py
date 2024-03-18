@@ -9,5 +9,3 @@ def calculate_and_print():
     print("The product of the numbers is: ", product)
 
 calculate_and_print()
-
-print("The product of two numbers will be greater than their sum when both numbers are greater than 2.")
