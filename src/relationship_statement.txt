@@ -1,0 +1,1 @@
+The product of two numbers will be greater than their sum when both numbers are greater than 2.
